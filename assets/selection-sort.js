@@ -44,4 +44,3 @@ async function selectionSort() {
 }
 
 //adding comments for the purpose of learning git commands
-//have to raise CR today :)
